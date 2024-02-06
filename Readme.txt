@@ -3,7 +3,7 @@ Feature: Searching and purchasing a book in a favorite online bookstore
 Background:
   Input data:
     | User      | Email Address     | Password |
-    | John      | john@example.com  | password |
+    | Fox      | Foxes@example.com  | password |
 
   Scenario: User logs in to their account
     Given the user opens the login page
